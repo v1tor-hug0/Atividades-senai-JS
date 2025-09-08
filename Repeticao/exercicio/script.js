@@ -70,7 +70,6 @@
 //!Primeiro avancado
 
 // let numero = parseInt(prompt("Digite um número inteiro positivo:"));
-
 // let soma = 0;
 
 // while (numero > 0) {
@@ -78,15 +77,22 @@
 //   numero = Math.floor(numero / 10); 
 // }
 
-// console.log("A soma dos dígitos é: " + soma);
 // alert("A soma dos dígitos é: " + soma);
 
 
 //!Segundo avancado
 
-let n = parseInt(prompt("Digite um número inteiro positivo:"));
-numero = n
+// let n = parseInt(prompt("Digite um numero"));
+// let resultado = 1;
+// let fatorial = 1;
 
-for(let i = 0; i <= numero;) {
-    numero * (n - 1)
-}
+// while (n >= fatorial) {
+//     resultado = resultado * fatorial;
+//     fatorial++;
+    
+// }
+// alert(resultado);
+
+
+//!Terceiro avancado
+
